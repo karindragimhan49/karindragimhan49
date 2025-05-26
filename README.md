@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BSc (Hons) Software Engineering Student<br><br>🚀 Passionate about Java, and JavaScript, cloud computing<br><br>💻 Skilled in MERN stack, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5
+🎓 BSc (Hons) Software Engineering Student<br><br>🚀 Passionate about JavaScript and Cloud☁️ & DevOps Enthusiast<br><br>💻 Skilled in MERN stack, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
 
 ## 🌐 Socials:
